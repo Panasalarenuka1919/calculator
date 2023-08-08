@@ -1,0 +1,29 @@
+body{
+    margin-top: 200px;
+    background-image: url('bg.jpg');
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 200px;
+}
+table{
+    margin-left: 450px;
+    margin-top: 60px;
+    padding: 10px;
+    transform: scale(2,2);
+}
+input[type=text]{
+    transform: scale(2,2);
+    background-color:white;
+    margin-left: -250px;
+    
+}
+button:hover{
+    background-color: rgb(106, 198, 235);
+    transform: scale(1,2);
+}
+h1{
+    margin-left: -250px;
+    color: yellow;
+    
+}
